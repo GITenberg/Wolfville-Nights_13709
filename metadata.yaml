@@ -1,0 +1,40 @@
+_repo: Wolfville-Nights_13709
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: Cover -- Contents.
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Arizona -- Social life and customs -- Fiction'
+- !lcsh 'Cowboys -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Fiction'
+tableOfContents: Some cowboy facts -- The dimissal of Silver Phil -- Colonel Sterett's
+  panther hunt -- How Faro Nell dealt bank -- How the Raven died -- The queerness
+  of Dave Tutt -- With the Apache's compliments -- The mills of savage gods -- Tom
+  and Jerry, wheelers -- The influence of Faro Nell -- The ghost of the Bar-B-8 --
+  Tucson Jennie's correction -- Bill Connors of the Osages -- When Tutt first saw
+  Tucson -- The troubles of Dan Boggs -- Bowlegs and Major Ben -- Toad Allen's elopement
+  -- The clients of Aaron Green -- Colonel Sterett's marvels -- The luck of Hardrobe
+  -- Long ago on the Rio Grande -- Colonel Coyote Clubbs.
+title: Wolfville Nights
+url: http://www.gutenberg.org/ebooks/13709
